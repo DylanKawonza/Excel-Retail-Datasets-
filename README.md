@@ -77,6 +77,7 @@ Customer demographics
 
 Market segmentation
 
+
 🎨 Data Visualisation
 Bar charts
 
@@ -98,6 +99,10 @@ Created colour-coded commission visuals
 
 Built charts showing generational spending patterns
 
+<img width="1856" height="447" alt="average commision " src="https://github.com/user-attachments/assets/afbf4c0b-f7ba-435d-8f68-e84795f10b81" />
+
+
+
 ✔ County Sales Dataset
 Built a PivotTable summarising sales by county and product
 
@@ -115,6 +120,8 @@ Analysed customer demographics
 Identified most profitable segments
 
 Built PivotTables and charts to explore market trends
+<img width="1164" height="547" alt="profits vs revenue " src="https://github.com/user-attachments/assets/aa28e2ce-b44f-4add-b07f-cf0d3d53a453" />
+
 
 📁 Repository Contents
 Excel workbook(s) containing completed tasks
